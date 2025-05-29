@@ -1,6 +1,6 @@
 # edge_detector
 
-detect vertical and horizontal edges using convolution, no library function used.
+detect vertical and horizontal edges using convolution, no library function used to detect edges.
 
 Convulation matrix used -> for vertical edges
 

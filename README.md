@@ -2,7 +2,9 @@
 
 detect vertical and horizontal edges using convolution, no library function used.
 
-Convulation matrix used -> [[ 0.25,  0.5 ,  0.25],    for vertical edges
+Convulation matrix used -> for vertical edges
+
+                          [[ 0.25,  0.5 ,  0.25],   
 
                            [ 0.  ,  0.  ,  0.  ],
                            
@@ -10,7 +12,9 @@ Convulation matrix used -> [[ 0.25,  0.5 ,  0.25],    for vertical edges
                            
                            
 
-Convulation matrix used-> [[ 0.25,  0.  , -0.25],  for horizontal edges
+Convulation matrix used->   for horizontal edges
+
+                          [[ 0.25,  0.  , -0.25],
 
                           [ 0.5 ,  0.  , -0.5 ],
                           
